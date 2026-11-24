@@ -45,6 +45,10 @@ An angled-slice cinematic montage showcasing 5 core development genres (Tiki Kar
 ---
 
 ## ☕ Support the Creator
-If you enjoy any of the free and open source tools, games, or audio software created here, consider supporting ongoing development on Ko-fi:
+If you enjoy any of the free, source-available tools, games, or audio software created here, consider supporting ongoing development on Ko-fi:
 
 👉 **[ko-fi.com/todd0042](https://ko-fi.com/todd0042)**
+
+## License
+
+Copyright (c) 2026 [Todd0042](https://github.com/Todd0042). The art and media in this repository are licensed under **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE)**: you may share and adapt them for non-commercial purposes with credit to Todd0042. Commercial use requires permission from [Todd0042](https://github.com/Todd0042).
